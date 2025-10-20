@@ -1,7 +1,7 @@
 # Opttab MCP / AI Model API
 
 <div align="center">
-  <img src="https://opttab.com/images/mail/logo.png" alt="Opttab Logo" width="200" height="60">
+  <img src="https://opttab.test/upload/images/logo/JPbB-sticky-opttab-logo.svg" alt="Opttab Logo" width="200" height="60">
 
 **Model Context Protocol API for AI Models**
 
